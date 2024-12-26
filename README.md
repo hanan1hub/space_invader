@@ -1,2 +1,2 @@
 # space_invader
-fFun Game
+Fun Game
